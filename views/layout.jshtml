@@ -1,0 +1,18 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+        <link rel="stylesheet" type="text/css" href="site.css" />
+        <script type="text/javascript" src="scripts/jquery-1.7.1.min.js"></script>
+        <script type="text/javascript" src="scripts/bootstrap.min.js"></script>
+        <title></title>
+    </head>
+    <body>
+        <div id="content-wrapper">
+            <div class="container">
+                @writeBody()
+            </div>
+        </div>
+    </body>
+</html>

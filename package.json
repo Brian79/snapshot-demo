@@ -1,0 +1,19 @@
+{
+  "name": "snapshot-demo",
+  "description": "snapshot-demo",
+  "version": "0.1.0",
+  "author": { 
+      "name": "Brian Clausen",
+      "email": "hbc511@gmail.com"
+  },
+  "contributors": [
+      { "name": "Brian Clausen", "email": "hbc511@gmail.com" },
+      { "name": "Chris Christie" }      
+  ],
+  "dependencies": {
+    "express": "~2.5.9",
+    "jshtml": "0.2.3",
+    "mongoose": "2.7.1",
+    "socket.io": "~0.9.6"
+  }
+}
